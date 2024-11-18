@@ -1,2 +1,2 @@
-# reposit-rio-de-autentica-es-drjr
+# repositório-de-autenticações-drjr
 Repositório de Testes de Autentições
